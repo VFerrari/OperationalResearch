@@ -19,3 +19,6 @@
 [submodule "FinalProject"]
 	path = FinalProject
 	url = git@github.com:eduinnarelli/FFP.git
+[submodule "Project8"]
+	path = Project8
+	url = git@github.com:g-macedo/mo824-8.git
