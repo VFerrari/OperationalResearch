@@ -1,0 +1,21 @@
+[submodule "Project2"]
+	path = Project2
+	url = git@github.com:satoru27/MO824A_Atividade_2.git
+[submodule "Project3"]
+	path = Project3
+	url = git@github.com:VFerrari/2-TSP_Lagrangian.git
+[submodule "Project4"]
+	path = Project4
+	url = git@github.com:gabrielsantosrv/grasp_max_qbfpt.git
+[submodule "Project5/Solution"]
+	path = Project5/Solution
+	url = git@github.com:eduinnarelli/MAX-QBFPT-tabu-search.git
+[submodule "Project6/Solution"]
+	path = Project6/Solution
+	url = git@github.com:VFerrari/MAX_QBFPT_GA.git
+[submodule "Project9/Solution"]
+	path = Project9/Solution
+	url = git@github.com:VFerrari/PAP-MO824.git
+[submodule "FinalProject"]
+	path = FinalProject
+	url = git@github.com:eduinnarelli/FFP.git
