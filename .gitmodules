@@ -13,3 +13,12 @@
 [submodule "Project8"]
 	path = Project8
 	url = git@github.com:g-macedo/mo824-8.git
+[submodule "Project5"]
+	path = Project5
+	url = git@github.com:eduinnarelli/MAX-QBFPT-tabu-search.git
+[submodule "Project6"]
+	path = Project6
+	url = git@github.com:VFerrari/MAX_QBFPT_GA.git
+[submodule "Project9"]
+	path = Project9
+	url = git@github.com:VFerrari/PAP-MO824.git
