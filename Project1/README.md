@@ -1,5 +1,10 @@
 # Projeto 1
 
+## Equipe
+ - Ricardo Ribeiro Cordeiro (186633)
+ - Sinara Caonetto Pamplona (187101)
+ - Victor Ferreira Ferrari  (187890)
+
 ## Gerar Instância
 
 Comando:
