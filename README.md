@@ -19,6 +19,8 @@ Every report is in Portuguese, and some projects are entirely in Portuguese, suc
 
 **Project 6**: Genetic Algorithm metaheuristic for the MAX-QBFPT problem. Grade: 10/10.
 
+**Project 7**: Not available, revise other final project proposals. Grade: 10/10.
+
 **Project 8**: TTT-Plot and Performance Profile evaluations of solutions for the MAX-QBFPT problem. Grade: 10/10.
 
 **Project 9**: GRASP metaheuristic for the Professor Allocation Problem. Grade: 10/10.
